@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🔭 I’m Achal, a Software Engineer currently building [Tecton](https://www.tecton.ai/)
+
 <!--
 **achals/achals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
