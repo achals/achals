@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m Achal, a Software Engineer currently building [Tecton](https://www.tecton.ai/)
+🔭 I’m Achal, a Software Engineer currently employed at [Tecton](https://www.tecton.ai/), building [Feast](https://feast.dev/)
 
 <!--
 **achals/achals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
