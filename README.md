@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m Achal, a Software Engineer at [Tecton](https://www.tecton.ai/). I lead a bunch of our streaming and realtime efforts. I also moonlight as a maintainer of [Feast](https://feast.dev/)
+🔭 I’m Achal, a Software Engineer at [Tecton](https://www.tecton.ai/). I lead a bunch of our streaming and realtime efforts. I blog at blog.achals.com
 
 <!--
 **achals/achals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
