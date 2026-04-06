@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m Achal, a Staff Machine Learning Engineer at [Reddit](https://www.reddit.com/r/RedditEng/). I lead our prediction logging and feature engineering efforts. Previously, I was at [Tecton](https://www.tecton.ai/), which was acquired by Databricks. There, I was leading a bunch of their streaming and realtime efforts. I blog at blog.achals.com
+🔭 I’m Achal, an Engineer at [Delphina](https://delphina.ai/). Previously, I was at [Reddit](https://www.reddit.com/r/RedditEng/), where I led prediction logging and feature engineering efforts. Before that, I was at [Tecton](https://www.tecton.ai/), which was acquired by Databricks. There, I was leading a bunch of their streaming and realtime efforts. I have also worked at Uber and Amazon. I blog at blog.achals.com
 
 <!--
 **achals/achals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
